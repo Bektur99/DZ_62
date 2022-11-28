@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DZ_6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="talk_me_down">talk_me_down</string>
+    <string name="now_playing">now_playing</string>
+</resources>
